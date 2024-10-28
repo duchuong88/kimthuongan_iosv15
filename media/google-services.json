@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835915314154",
+    "firebase_url": "https://kim-thuong-an-default-rtdb.firebaseio.com",
+    "project_id": "kim-thuong-an",
+    "storage_bucket": "kim-thuong-an.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835915314154:android:a2d68f8b75a622b11a3893",
+        "android_client_info": {
+          "package_name": "kimthuongan.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-B3MKdD4LlK9DLHsjwvb_JxWK41suI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
